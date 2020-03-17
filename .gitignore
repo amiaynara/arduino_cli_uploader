@@ -1,0 +1,3 @@
+test.arduino.avr.uno.elf
+test.arduino.avr.uno.hex
+test.arduino.avr.uno.with_bootloader.hex
