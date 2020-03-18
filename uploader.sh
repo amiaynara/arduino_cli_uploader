@@ -1,3 +1,4 @@
+#! /bin/bash
 #assuming that the board and the libraries already installed
 
 #list connected board
